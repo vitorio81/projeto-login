@@ -2,11 +2,12 @@
 
 @media screen and (min-width: 768px) and (max-width: 992px ) {
     body{
-        background-image: linear-gradient(to top, rgba(81, 0, 255, 0.19), rgb(144, 83, 3), rgba(0, 0, 0, 0.562) );
+        background-image: linear-gradient(to top, rgb(19, 4, 93), rgb(11, 3, 49), rgba(0, 0, 0, 0.562) );
     }
 
     section#login {
         width: 80vw;
+        height: 360px;
     }
 
      section#login > div#imagem {
@@ -33,11 +34,12 @@
 
 @media screen and (min-width: 992px) {
     body{
-        background-image: linear-gradient(to top, rgba(81, 0, 255, 0.19), rgb(144, 83, 3), rgba(0, 0, 0, 0.562) );
+        background-image: linear-gradient(to top, rgb(19, 4, 93), rgb(11, 3, 49), rgba(0, 0, 0, 0.562) );
     }
 
     section#login {
         width: 80vw;
+        height: 400px;
     }
 
     section#login > div#imagem {
